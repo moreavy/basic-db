@@ -61,7 +61,7 @@ And the HTML Form should be:
   <label>Username:</label>
   <input type="text" name="key"/>
   <br>
-  <input type="Submit" value="Create New Account"/>
+  <input type="Submit" value="Delete"/>
 </form>
 ```
 
