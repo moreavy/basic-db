@@ -1,1 +1,4 @@
-{"local":{},"servers":{"test":{"test":"dev"}}}
+{
+    "local": {},
+    "servers": {}
+}
