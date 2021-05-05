@@ -1,5 +1,6 @@
 # `basic-db`
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Test](https://github.com/moreavy/basic-db/actions/workflows/test.yml/badge.svg)](https://github.com/moreavy/basic-db/actions/workflows/test.yml)
 ## Usage
 ### Local Storage
 The database can store simple *key-value* storage in a local method.
