@@ -17,5 +17,8 @@ jobs:
       - name: Install NPM
         run: sudo apt install npm
 
+      - name: Install express
+        run: npm i express
+
       - name: Run Test
         run: npm test
