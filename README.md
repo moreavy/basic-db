@@ -58,7 +58,7 @@ And the HTML Form should be:
 ```html
 <form method="GET" action="http://localhost:900/">
   <h1>Delete Data From Basic-DB</h1>
-  <label>Username:</label>
+  <label>Key:</label>
   <input type="text" name="key"/>
   <br>
   <input type="Submit" value="Delete"/>
